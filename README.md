@@ -1,2 +1,2 @@
-# nextdep_schema
+# nextdep_dsp_schema
 Schemas for next generation deposition software 
