@@ -1,2 +1,2 @@
-# nextdep_dsp_schema
-Schemas for next generation deposition software 
+# onedep_lib_schema
+Schemas for onedep_lib 
